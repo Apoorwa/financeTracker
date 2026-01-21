@@ -1,0 +1,89 @@
+# ================================
+# Python bytecode / cache
+# ================================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ================================
+# Virtual environments
+# ================================
+venv/
+.venv/
+env/
+ENV/
+
+# ================================
+# Environment variables
+# ================================
+.env
+.env.*
+!.env.example
+
+# ================================
+# Jupyter / IPython
+# ================================
+.ipynb_checkpoints/
+.profile_default/
+ipython_config.py
+
+# ================================
+# Build / distribution
+# ================================
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ================================
+# Test / coverage
+# ================================
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# ================================
+# Logs & temp files
+# ================================
+*.log
+*.tmp
+*.swp
+*.bak
+
+# ================================
+# OS / Editor files
+# ================================
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
+*.iml
+
+# ================================
+# Streamlit specific
+# ================================
+.streamlit/
+.streamlit/secrets.toml
+
+# ================================
+# Data files (optional – adjust)
+# ================================
+*.xlsx
+*.parquet
+
+# ================================
+# Local databases
+# ================================
+*.db
+*.sqlite3
+
+# ================================
+# Caches
+# ================================
+.cache/
+.mypy_cache/
+.pyre/
