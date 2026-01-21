@@ -18,6 +18,16 @@ Upload your bank transaction CSV, categorize expenses, and visualize spending pa
 
 ---
 
+## 🛠️ Tech Stack
+
+- **Python 3.10+** – Core programming language
+- **Streamlit** – Interactive web application framework
+- **Pandas** – Data loading, cleaning, and transformation
+- **Plotly** – Interactive data visualizations and charts
+- **JSON** – Persistent storage for categories and keywords
+
+---
+
 ## 🙏 Credits & Inspiration
 
 This project was inspired by a YouTube tutorial.
