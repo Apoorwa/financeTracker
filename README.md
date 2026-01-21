@@ -17,3 +17,13 @@ Upload your bank transaction CSV, categorize expenses, and visualize spending pa
 - 💾 Persistent category storage using `categories.json`
 
 ---
+
+## 🙏 Credits & Inspiration
+
+This project was inspired by a YouTube tutorial.
+
+- YouTube: [Tech With Tim](https://www.youtube.com/@TechWithTim)
+- Video: [
+  How To Automate Your Finances with Python](https://www.youtube.com/watch?v=wqBlmAWqa6A)
+
+---
